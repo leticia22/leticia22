@@ -1,5 +1,5 @@
 - 👋 Hola , Mi nombre es Leticia
-- 👀 Soy de ![Uploading image.png…]()
+- 👀 Soy de 🇦🇷
 
 - 🌱 I’m currently learning functional test
 - 💞️ I’m looking to collaborate on ...
