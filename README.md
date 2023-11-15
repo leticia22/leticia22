@@ -1,7 +1,7 @@
 - 👋 Hola , Mi nombre es Leticia
-- 👀 Soy de 🇦🇷
+- 👀 Soy de Argentina
 
--  ☕ Trabajo de manera Freelance ☕
+-  ☕ Trabajo de manera Freelance 🥐
 
 <!---
 leticia22/leticia22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
