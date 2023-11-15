@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Leticia
-- 👀 I’m interested in learn
+- 👋 Hola , Mi nombre es Leticia
+- 👀 Soy de ![Uploading image.png…]()
+
 - 🌱 I’m currently learning functional test
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
