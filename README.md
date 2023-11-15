@@ -1,9 +1,7 @@
 - 👋 Hola , Mi nombre es Leticia
 - 👀 Soy de 🇦🇷
 
-- 🌱 I’m currently learning functional test
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  ☕ Trabajo de manera Freelance ☕
 
 <!---
 leticia22/leticia22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
